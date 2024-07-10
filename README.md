@@ -7,4 +7,4 @@ Type these commands in Terminal for installing required libraries.
 pip install transformers scipy 
 pip install torch torchvision torchaudio
 
-This project defines certain labels like Positive, Neutral and Negative based on the sentiment of the tweet (Here, we're using twitter posts)
+This project defines certain labels like Positive, Neutral and Negative based on the sentiments conveyed by the tweet (Here, we're using twitter posts)
